@@ -6,6 +6,6 @@ The course aims to train students in best-practice data visualization techniques
 
 <b>More information about the course can be found here:</b> [Data Visualization](https://extendedlearning.ubc.ca/courses/data-visualization/fs021)
 
-Course content can be found here: [Data Visualization- Course Material](https://viz-learn.mds.ubc.ca/en/)
+<b>Course content can be found here:</b> [Data Visualization- Course Material](https://viz-learn.mds.ubc.ca/en/)
 
-The project explores and analyzes the composition of the Vancouver street tree population at the genus level using the statistical visualization library Altair. It attempts to glean insights pertaining to tree stewardship as it relates to the City of Vancouver’s climate adaptation strategy.
+The project explores and analyzes the composition of the Vancouver street tree population at the genus level using the statistical visualization library Altair. It attempts to glean insights and express findings pertaining to tree stewardship as it relates to the City of Vancouver’s climate adaptation strategy using data visualizations and dashboards.
